@@ -1,0 +1,15 @@
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\bin\Debug\net8.0\TP1.exe
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\bin\Debug\net8.0\TP1.deps.json
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\bin\Debug\net8.0\TP1.runtimeconfig.json
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\bin\Debug\net8.0\TP1.dll
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\bin\Debug\net8.0\TP1.pdb
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.AssemblyInfoInputs.cache
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.AssemblyInfo.cs
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.csproj.CoreCompileInputs.cache
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.sourcelink.json
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.dll
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\refint\TP1.dll
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.pdb
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\TP1.genruntimeconfig.cache
+c:\Users\lucas\Videos\UmaiTrabajos\Prog\git\TP1\TP1\obj\Debug\net8.0\ref\TP1.dll
