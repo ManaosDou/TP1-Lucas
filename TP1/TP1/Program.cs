@@ -1,8 +1,8 @@
 ﻿//Advertencia: Al crear la habitacion se recomienda que la cantidad de filas y columnas sea la misma para evitar posibles bugs
 public class Program //Llamar al juego luego de preguntar filas y columnas
     {
-        public static int Hcolumnas;
-        public static int Hfilas;
+        public static int Hcolumnas = 10;
+        public static int Hfilas = 10;
         public static void Main(string[] args)
     {
         Correr();
@@ -10,18 +10,18 @@ public class Program //Llamar al juego luego de preguntar filas y columnas
         public static void Correr()
         {
         // Solicitar al usuario el número de columnas
-        do
-        {
-            Console.Write("Ingresa el número de columnas (debe ser mayor a 5): ");
-            Hcolumnas = Convert.ToInt32(Console.ReadLine());
-        } while (Hcolumnas <= 5);
+        //do
+        //{
+            //Console.Write("Ingresa el número de columnas (debe ser mayor a 5): ");
+            //Hcolumnas = Convert.ToInt32(Console.ReadLine());
+        //} while (Hcolumnas <= 5);
 
         // Solicitar al usuario el número de filas
-        do
-        {
-            Console.Write("Ingresa el número de filas (debe ser mayor a 5): ");
-            Hfilas = Convert.ToInt32(Console.ReadLine());
-        } while (Hfilas <= 5);
+        //do
+        //{
+            //Console.Write("Ingresa el número de filas (debe ser mayor a 5): ");
+            //Hfilas = Convert.ToInt32(Console.ReadLine());
+        //} while (Hfilas <= 5);
 
             var juego = new Juego();
             juego.CorrerJuego();
