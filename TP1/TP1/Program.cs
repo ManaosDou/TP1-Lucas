@@ -61,11 +61,6 @@ public class Program //Llamar al juego luego de preguntar filas y columnas
 
                 // Actualizo Datos
                 ActualizarDatos(input);
-
-                foreach (var bala in balas) //Movimiento de las balas
-            {
-                bala.Mover(0, -1);
-            }
              
                 // Dibujo Pantalla
                 DibujarPantalla();
@@ -130,6 +125,11 @@ public class Program //Llamar al juego luego de preguntar filas y columnas
                 if (NuevaBala != null)
                     balas.Add(NuevaBala);
             }
+            }
+
+            foreach (var bala in balas) //Movimiento de las balas
+            {
+                bala.Mover(0, -1);
             }
 
             for (int i = balas.Count - 1; i >= 0; i--)
