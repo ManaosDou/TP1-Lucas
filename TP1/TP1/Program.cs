@@ -189,7 +189,7 @@ public class Program //Llamar al juego luego de preguntar filas y columnas
 abstract class Movible
 {
     public int x, y;
-    protected IMapa mapa;
+    public IMapa mapa;
 
     public Movible(int x, int y, IMapa mapa)
     {
